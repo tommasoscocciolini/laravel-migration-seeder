@@ -28,6 +28,7 @@
                 align-items: center;
                 display: flex;
                 justify-content: center;
+                flex-wrap: wrap;
             }
             .packet span {
               display: inline-block;
